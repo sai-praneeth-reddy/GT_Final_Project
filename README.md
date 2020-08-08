@@ -1,5 +1,7 @@
 # GeorgiaTech Bootcamp Final Project
 
+![1.jpg](Images/1.jpg)
+
 ## Team Members: 
 [Ana Cifuentes](https://www.linkedin.com/in/anacifuentesco/?locale=en_US) <br />
 [Cornelia Harris](http://www.linkedin.com/in/corneliaharris) <br />
@@ -26,8 +28,8 @@ Tableau for data visualization <br />
 
 ## Data Sets:
 
-Primary Elections Results: [Fivethiryeight] (https://github.com/fivethirtyeight/data/tree/master/primary-candidates-2018)
-Voter Registration data: [Fivethiryeight] (https://github.com/fivethirtyeight/data/tree/master/voter-registration)
+Primary Elections Results: [Fivethiryeight] (https://github.com/fivethirtyeight/data/tree/master/primary-candidates-2018)<br />
+Voter Registration data: [Fivethiryeight] (https://github.com/fivethirtyeight/data/tree/master/voter-registration)<br />
 Senators info : [Govtrack](https://www.govtrack.us/api/v2/role?current=true&role_type=senator) <br />
 Popularity: [Morning Consultant](https://morningconsult.com/2019/01/10/americas-most-and-least-popular-senators-q4-2018-2/) <br />
 Ideology Score: [Govttack](https://www.govtrack.us/congress/members/report-cards/2019/senate/ideology) <br />
