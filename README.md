@@ -31,7 +31,7 @@ Tableau for data visualization <br />
 
 ## Data Sets:
 
-Primary Elections Results: [Fivethiryeight] (https://fivethirtyeight.com/features/democrats-primaries-candidates-demographics/) <br />
+Primary Elections Results: [Fivethiryeight] (https://www.govtrack.us/api/v2/role?current=true&role_type=senator) <br />
 Voter Registration data: [Fivethiryeight] (https://fivethirtyeight.com/features/voter-registrations-are-way-way-down-during-the-pandemic/) <br />
 Senators info : [Govtrack](https://www.govtrack.us/api/v2/role?current=true&role_type=senator) <br />
 Popularity: [Morning Consultant](https://morningconsult.com/2019/01/10/americas-most-and-least-popular-senators-q4-2018-2/) <br />
