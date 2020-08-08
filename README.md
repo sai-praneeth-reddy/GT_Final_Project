@@ -5,8 +5,8 @@
 [Cornelia Harris](http://www.linkedin.com/in/corneliaharris) <br />
 [Rachael Munyua](http://www.linkedin.com/in/rachael-munyua) <br />
 [Sai Reddy](https://www.linkedin.com/in/saipraneeth1/) <br />
-[Tariq Attarwala](https://www.linkedin.com/in/lingzi-xiaoli-27b87174) <br />
-[Vinh Phan](https://github.com/vn0707/) <br />
+[Tariq Attarwala](https://www.linkedin.com/in/tariq-attarwala-923185a8/) <br />
+[Vinh Phan](https://www.linkedin.com/in/vinh-phan-a4608060/) <br />
 
 
 ## Summary : 
@@ -31,12 +31,12 @@ Tableau for data visualization <br />
 
 ## Data Sets:
 
-Primary Elections Results: [Fivethiryeight] (https://github.com/fivethirtyeight/data) <br />
-Voter Registration data: [Fivethiryeight] (https://github.com/fivethirtyeight/data) <br />
+Primary Elections Results: [Fivethiryeight] (https://fivethirtyeight.com/features/democrats-primaries-candidates-demographics/) <br />
+Voter Registration data: [Fivethiryeight] (https://fivethirtyeight.com/features/voter-registrations-are-way-way-down-during-the-pandemic/) <br />
 Senators info : [Govtrack](https://www.govtrack.us/api/v2/role?current=true&role_type=senator) <br />
 Popularity: [Morning Consultant](https://morningconsult.com/2019/01/10/americas-most-and-least-popular-senators-q4-2018-2/) <br />
 Ideology Score: [Govttack](https://www.govtrack.us/congress/members/report-cards/2019/senate/ideology) <br />
-Voter Registration data: [Fivethiryeight] (https://github.com/fivethirtyeight/data) <br />
+
 
 
 ## Data Dictionary:
