@@ -30,8 +30,8 @@ Tableau for data visualization <br />
 
 
 ## Data Sets:
-Primary Election Results : [Fivethirtyeight](https://www.govtrack.us/api/v2/role?current=true&role_type=senator) <br />
-Voter Registration: [Fivethirtyeight](https://morningconsult.com/2019/01/10/americas-most-and-least-popular-senators-q4-2018-2/) <br />
+Primary Election Results : [Fivethirtyeight](https://github.com/fivethirtyeight/data/tree/master/primary-candidates-2018) <br />
+Voter Registration: [Fivethirtyeight](https://github.com/fivethirtyeight/data/tree/master/voter-registration) <br />
 Senators info : [Govtrack](https://www.govtrack.us/api/v2/role?current=true&role_type=senator) <br />
 Popularity: [Morning Consultant](https://morningconsult.com/2019/01/10/americas-most-and-least-popular-senators-q4-2018-2/) <br />
 Ideology Score: [Govttack](https://www.govtrack.us/congress/members/report-cards/2019/senate/ideology) <br />
