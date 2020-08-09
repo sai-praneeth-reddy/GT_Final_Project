@@ -14,7 +14,7 @@ The goal of this project is to develop a classification model to forcast the win
 
 
 ## Scope: 
-The final results for the project will be presented in a Tableau dashbord. The dashboard will display the performance of our model in identifying winners of primary elections and also demonstarate any patters that exist. The machine learning models we will be exploring as part of our project are:
+The final results for the project will be presented in a Tableau dashbord. The dashboard will display the performance of our model in identifying winners of primary elections and also demonstarate any patterns that exist. The machine learning models, we will be exploring as part of our project are:
 
 1. Decision Trees
 2. Random Forest
