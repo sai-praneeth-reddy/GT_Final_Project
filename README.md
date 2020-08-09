@@ -23,7 +23,7 @@ The final results for the project will be presented in a Tableau dashbord. The d
 
 
 ## Technologies:
-Python for manipulating data into required format. <br />
+Pandas for manipulating data into required format. <br />
 Sklearn for developing Machine Learning models. <br />
 SQL & MongoDB for data storage. <br />
 Tableau for data visualization <br />
