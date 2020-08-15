@@ -10,7 +10,7 @@
 
 
 ## Summary : 
-The goal of this project is to develop a classification model to forcast the winner of Democratic and Republican Primary election for the U.S. Senate, U.S. House and Governor. We will then look for patterns among successful candidates.
+The goal of this project is to develop a classification model to forcast the winner of Democratic and Republican Primary election for the U.S. Senate, U.S. House and Governor. We will then look for patterns among successful candidates. In addition to that, we also analyzed voter registration for 2020 and it's impact due to pandemic.
 
 
 ## Scope: 
