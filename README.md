@@ -10,20 +10,19 @@
 
 
 ## Summary : 
-The goal of this project is to create a dashboard for evaluating the performance of U.S. Senate and develop a classification model to forcast the winner of Democratic and Republican Primary election for the U.S. Senate, U.S. House and Governor. We will then look for patterns among successful candidates. 
+The goal of this project is to create a dashboard for evaluating the performance of the U.S. Senators and develop a classification model to forecast the winner of Democratic and Republican Primary election for the U.S. Senate, U.S. House and Governor. We will then look for patterns among successful candidates. 
 
-In addition to that, we will compare voter registration in 2016 vs 2020 and it's impact from the pandemic.
+In addition to that, we will compare voter registration in 2016 vs 2020 and its impact from the pandemic.
 
 
 ## Scope: 
-The final results for the project will be presented in a Tableau dashbord. The dashboard will display the performance of our model in identifying winners of primary elections and also demonstarate any patterns that exist. The machine learning models we will be exploring as part of our project are:
+The final results for the project will be presented in a Tableau dashbord. The dashboard will display the performance of our model in identifying winners of primary elections and also demonstrate any patterns that exist. The machine learning models we will be exploring as part of our project are:
 
 1. Decision Trees
 2. Random Forest
-3. XGBoost
-4. Gradient Boosting
 
-A dashboard to evaluate the performance of U.S. Senate and an analysis the compares voter registration in 2016 vs 2020 will also be included.
+
+A dashboard to evaluate the performance of the U.S. Senators and an analysis that compares voter registration in 2016 vs 2020 will also be included.
 
 
 ## Technologies:
