@@ -7,6 +7,11 @@
 
 [Website](https://vn0707.github.io/Final-Project-Html/index.html) <br />
 
+[DecisionTree Model - Democrats](https://github.com/sai-praneeth-reddy/GT_Final_Project/blob/master/Python/02DecisionTrees_Democrat.ipynb) <br />
+
+[DecisionTree Model - Rebublicans](https://github.com/sai-praneeth-reddy/GT_Final_Project/blob/master/Python/03DecisionTree_Republican.ipynb) <br />
+
+
 ## Team Members: 
 [Ana Cifuentes](https://www.linkedin.com/in/anacifuentesco/?locale=en_US) <br />
 [Cornelia Harris](http://www.linkedin.com/in/corneliaharris) <br />
