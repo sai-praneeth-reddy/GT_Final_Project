@@ -1,7 +1,7 @@
 # GeorgiaTech Bootcamp Final Project
 
 
-# Project Results:
+## Project Results:
 
 [Tableau Dashboard](https://public.tableau.com/shared/TBYNJP4QM?:display_count=y&:origin=viz_share_link) <br />
 
