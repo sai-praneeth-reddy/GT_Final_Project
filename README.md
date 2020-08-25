@@ -18,7 +18,7 @@
 [Rachael Munyua](http://www.linkedin.com/in/rachael-munyua) <br />
 [Sai Reddy](https://www.linkedin.com/in/saipraneeth1/) <br />
 [Tariq Attarwala](https://www.linkedin.com/in/tariq-attarwala-923185a8/) <br />
-[Vinh Phan](https://www.linkedin.com/in/vinh-phan-a4608060/) <br />
+[Vinh Phan](www.linkedin.com/in/vinhxphan/) <br />
 
 
 ## Summary : 
