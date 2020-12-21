@@ -5,7 +5,7 @@
 
 [Tableau Dashboard](https://public.tableau.com/shared/TBYNJP4QM?:display_count=y&:origin=viz_share_link) <br />
 
-[Website](https://vn0707.github.io/Final-Project-Html/index.html) <br />
+[Website](https://sai-praneeth-reddy.github.io/GT_US_Senate/) <br />
 
 [DecisionTree Model - Democrats](https://github.com/sai-praneeth-reddy/GT_Final_Project/blob/master/Python/02DecisionTrees_Democrat.ipynb) <br />
 
